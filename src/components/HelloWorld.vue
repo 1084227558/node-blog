@@ -8,7 +8,7 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          hahaha---test--im new one
+          hahaha---test--im new one---哈哈哈
         </a>
       </li>
     </ul>
